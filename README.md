@@ -7,7 +7,6 @@
  * @Summary: 
 ```math
 \KaTeX \space MarkDown \space HTML \space VsCode \space PicGo \space MyEasyPicBedMain \space Prince \hspace{-1cm} \\
-Multisim14.0 \space Altium Designer2022 \hspace{-6.7cm} \\
 ```
 ---
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
