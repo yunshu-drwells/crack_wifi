@@ -26,6 +26,10 @@ Multisim14.0 \space Altium Designer2022 \hspace{-6.7cm} \\
 
 <!-- /code_chunk_output -->
 
+# 视频教程
+
+<a href="https://www.bilibili.com/video/BV1rN41137CZ/?share_source=copy_web&vd_source=f484d7a40d011dba21c5a56e3063c0f2">网络渗透之wifi密码破解工具</a>
+
 # 项目初衷
 
 之前学习网络渗透相关知识，发现很有挑战性也很有趣。常见的wifi密码破解套路有路由器PIN码暴力破解或者利用路由器漏洞最后通过QSS连接，又或者查弱密码字典撞车。需要虚拟机和一些特定网卡（8187或者3070）才能玩转，条件不允许。写个windows和linux跨平台的查字典撞车小工具消遣一下。
