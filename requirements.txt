@@ -1,0 +1,8 @@
+Pillow
+comtypes
+numpy
+pywifi
+setuptools
+six
+wheel
+wxPython
