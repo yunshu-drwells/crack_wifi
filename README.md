@@ -1,3 +1,31 @@
+
+---
+ * @Author: Yangzhiyuan
+ * @Date: 2022-09-03 23:5:1
+ * @Category: 
+ * @Filename: 
+ * @Summary: 
+```math
+\KaTeX \space MarkDown \space HTML \space VsCode \space PicGo \space MyEasyPicBedMain \space Prince \hspace{-1cm} \\
+Multisim14.0 \space Altium Designer2022 \hspace{-6.7cm} \\
+```
+---
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [项目初衷](#项目初衷)
+- [实现细则](#实现细则)
+  - [文件](#文件)
+  - [描述](#描述)
+- [使用细则](#使用细则)
+- [求助](#求助)
+- [自行编译](#自行编译)
+  - [window](#window)
+  - [linux](#linux)
+
+<!-- /code_chunk_output -->
+
 # 项目初衷
 
 之前学习网络渗透相关知识，发现很有挑战性也很有趣。常见的wifi密码破解套路有路由器PIN码暴力破解或者利用路由器漏洞最后通过QSS连接，又或者查弱密码字典撞车。需要虚拟机和一些特定网卡（8187或者3070）才能玩转，条件不允许。写个windows和linux跨平台的查字典撞车小工具消遣一下。
@@ -43,7 +71,8 @@
 # 求助
 
 
-有没有对这块熟悉的大佬指点迷津，如何实现连接成功或失败立刻返回，而不是粗暴的sleep等待，这样会降低密码破解的效率
+
+1. 有没有对这块熟悉的大佬指点迷津，如何实现连接成功或失败立刻返回，而不是粗暴的sleep等待，这样会降低密码破解的效率
 
 ```
 wifi = pywifi.PyWiFi()
@@ -61,6 +90,9 @@ else:
 
 <!-- 程序正常执行的情况下，还是会抛出线程异常 -->
 
+2. 密码破解的线程通过daemon设置为守护线程，不明白为什么主程序退出后，正在执行破解的线程无法退出
+
+
 # 自行编译
 
 ## window
@@ -74,3 +106,8 @@ pyinstaller --onefile --noconsole main.py --name crackwifi
 ## linux
 
 适配中...敬请期待
+
+
+
+github: https://github.com/yunshu-drwells/crack_wifi
+gitee: https://gitee.com/yhviyr/crack_wifi
