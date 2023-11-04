@@ -25,6 +25,10 @@
 
 <!-- /code_chunk_output -->
 
+# 警告
+
+使用本项目，表示默认同意本项目的用途只限于学习，如果使用不当，所造成的一切经济损失和社会危害都由使用者自行承担，与项目开发者无关。
+
 # 视频教程
 
 <a href="https://www.bilibili.com/video/BV1rN41137CZ/?share_source=copy_web&vd_source=f484d7a40d011dba21c5a56e3063c0f2">网络渗透之wifi密码破解工具</a>
