@@ -7,7 +7,6 @@
  * @Summary: 
 ```math
 \KaTeX \space MarkDown \space HTML \space VsCode \space PicGo \space MyEasyPicBedMain \space Prince \hspace{-1cm} \\
-Multisim14.0 \space Altium Designer2022 \hspace{-6.7cm} \\
 ```
 ---
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -25,6 +24,10 @@ Multisim14.0 \space Altium Designer2022 \hspace{-6.7cm} \\
   - [linux](#linux)
 
 <!-- /code_chunk_output -->
+
+# 视频教程
+
+<a href="https://www.bilibili.com/video/BV1rN41137CZ/?share_source=copy_web&vd_source=f484d7a40d011dba21c5a56e3063c0f2">网络渗透之wifi密码破解工具</a>
 
 # 项目初衷
 
