@@ -294,7 +294,7 @@ class MyFrame(wx.Frame):
         return ssid, Authentication, Encryption
 
     def on_connect_type__(self, stop_event, start, end, dic, ssid, Authentication, Encryption, frame):
-        while not stop_event.is_set():
+        # while not stop_event.is_set():
             try:
                 for key in range(start, end + 1):
                     # print("dic[i]", dic[key])
@@ -393,6 +393,7 @@ class MyApp(wx.App):
 if __name__ == "__main__":
     app = MyApp()
     app.MainLoop()
+    input('Press Enter to exit…')
 
 # 加密方式
 '''

@@ -67,6 +67,7 @@ Multisim14.0 \space Altium Designer2022 \hspace{-6.7cm} \\
 
 <p align="center"> <div align="middle"><img src="./resources/Snipaste_2023-11-03_13-01-18.jpg" alt="202310182123501" width="720" height=""></div></p>
 
+**运行必要条件：至少拥有一张无线网卡**
 
 # 求助
 

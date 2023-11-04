@@ -9,11 +9,11 @@ import asyncio  # 异步
 import subprocess
 
 
-class WifiControl:
-    # 创建pywifi对象
-    wifi = pywifi.PyWiFi()
-    # 获取第一个无线网卡接口
-    iface_ = wifi.interfaces()[0]
+class WifiControl():
+    # # 创建pywifi对象
+    # wifi = pywifi.PyWiFi()
+    # # 获取第一个无线网卡接口
+    # iface_ = wifi.interfaces()[0]
 
     def __init__(self, MyFrame):
         # 创建pywifi对象
