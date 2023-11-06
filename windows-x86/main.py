@@ -393,7 +393,7 @@ class MyApp(wx.App):
 if __name__ == "__main__":
     app = MyApp()
     app.MainLoop()
-    input('Press Enter to exit…')
+
 
 # 加密方式
 '''
