@@ -13,6 +13,8 @@
 
 <!-- code_chunk_output -->
 
+- [警告](#警告)
+- [视频教程](#视频教程)
 - [项目初衷](#项目初衷)
 - [实现细则](#实现细则)
   - [文件](#文件)
@@ -22,6 +24,7 @@
 - [自行编译](#自行编译)
   - [window](#window)
   - [linux](#linux)
+- [捐献](#捐献)
 
 <!-- /code_chunk_output -->
 
@@ -119,3 +122,10 @@ pyinstaller --onefile --noconsole main.py --name crackwifi
 
 github: https://github.com/yunshu-drwells/crack_wifi
 gitee: https://gitee.com/yhviyr/crack_wifi
+
+
+# 捐献
+
+<p align="center"> <div align="middle"><img src="https://github.com/yunshu-drwells/Notes/blob/main/donate%20alipay.jpg" alt="202402191238496" width="720" height=""></div></p>
+
+<p align="center"> <div align="middle"><img src="https://github.com/yunshu-drwells/Notes/blob/main/donate%20wechat.jpg" alt="202402191238496" width="720" height=""></div></p>
